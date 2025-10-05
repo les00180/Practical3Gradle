@@ -9,7 +9,7 @@ import com.opencsv.CSVReader;
 import com.sampullara.cli.Args;
 import com.sampullara.cli.Argument;
 
-public class lol fbfhf  NumberTools {
+public class NumberTools {
 
 	// the cli parser library lets us make instance variables with annotations like this
 	// that specify command line arguments for the program
